@@ -1,5 +1,5 @@
 # DOODLES
-Drawing Operation Of Developmentally-Learned Encoded Sequences
+Dynamic Operation Of Developmentally-Learned Encoded Sequences
 
 Robbie Schad (schadra@mail.uc.edu)
 
