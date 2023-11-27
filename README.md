@@ -1,5 +1,5 @@
 # DOODLES
-## Project Description
+## [Project Description](https://github.com/r-schad/DOODLES/blob/main/Project_Description.md)
 Dynamic Operation Of Developmentally-Learned Encoded Sequences
 Team: Robbie Schad (schadra@mail.uc.edu)
 Advisor: Dr. Ali Minai (minaiaa@mail.uc.edu)
