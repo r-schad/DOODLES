@@ -27,5 +27,4 @@ Diagram Conventions:
 Circles/Rectangles represent layers and structures within the neural model. Arrows represent signals 
 passing from one layer within the model to another.
 
-## Design D0
-![A test image](image.png)
+## ![Design D0](https://github.com/r-schad/DOODLES/blob/main/Design%20Diagrams/d0.png)
