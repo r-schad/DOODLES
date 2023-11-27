@@ -1,3 +1,4 @@
+## Task list
 All tasks are designated to Robbie Schad as the individual member of the group.
 1. Design a model architecture.
 2. Implement the Self-Organizing Feature Map.
@@ -8,3 +9,6 @@ All tasks are designated to Robbie Schad as the individual member of the group.
 7. Test a variety of inputs and determine the quality of corresponding outputs.
 8. Visualize the different effects various parameters in the model.
 9. Create a poster and documentation describing the model.
+
+## Timeline
+![timeline](https://github.com/r-schad/DOODLES/assets/77344254/5a671787-d784-4807-b125-716ecc35da45)
