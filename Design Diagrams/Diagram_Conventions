@@ -1,0 +1,3 @@
+Diagram Conventions:
+Circles/Rectangles represent layers and structures within the neural model. Arrows represent signals 
+passing from one layer within the model to another.
