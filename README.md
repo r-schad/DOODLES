@@ -19,4 +19,4 @@ Project Area: Intelligent Systems
 No money has been spent on this project and no expenses are expected to occur.
 ## 10. Appendix
 ### [Code Repository](https://github.com/r-schad/Code-Ring-Network)
-### Meeting Notes(https://github.com/r-schad/DOODLES/blob/main/running_meeting_notes.docx)
+### [Meeting Notes](https://github.com/r-schad/DOODLES/blob/main/running_meeting_notes.docx)
