@@ -12,3 +12,7 @@ All tasks are designated to Robbie Schad as the individual member of the group.
 
 ## Timeline
 ![timeline](https://github.com/r-schad/DOODLES/assets/77344254/5a671787-d784-4807-b125-716ecc35da45)
+
+## Effort Matrix
+![effort_matrix](https://github.com/r-schad/DOODLES/assets/77344254/b827b7cb-8f3e-4e61-b028-c5fdcd71245a)
+
