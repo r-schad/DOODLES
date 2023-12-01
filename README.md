@@ -12,7 +12,7 @@ Project Area: Intelligent Systems
 ## 3. [User Stories & Design Diagrams](https://github.com/r-schad/DOODLES/blob/main/User_Stories_and_Design_Diagrams)
 ## 4. [Project Tasks and Timeline](https://github.com/r-schad/DOODLES/blob/main/Tasklist_and_Timeline.md)
 ## 5. [ABET Concerns Essay](https://github.com/r-schad/DOODLES/blob/main/Concerns_Essay.md)
-## 6. [PPT Slideshow](https://github.com/r-schad/DOODLES/blob/main/CS5001_Schad_Presentation_without_recording.pptx)
+## 6. [PPT Slideshow](https://github.com/r-schad/DOODLES/blob/main/CS5001_Schad_Presentation.pptx)
 ## 7. [Self-Assessment Essays](https://github.com/r-schad/DOODLES/blob/main/Capstone_Assessment_Essay.md)
 ## 8. [Professional Biographies](https://github.com/r-schad/DOODLES/blob/main/Professional_Biography.md)
 ## 9. Budget
