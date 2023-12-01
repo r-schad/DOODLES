@@ -1,5 +1,5 @@
 # DOODLES
-Dynamic Operation Of Developmentally-Learned Encoded Sequences
+Dynamical Operation Of Developmentally-Learned Encoded Sequences
 
 Team: Robbie Schad (schadra@mail.uc.edu)
 
