@@ -3,7 +3,7 @@
 Robbie Schad (schadra@mail.uc.edu)
 Advisor: Dr. Ali Minai (minaiaa@mail.uc.edu)
 ## Project Title
-DOODLES (Drawing Operation Of Developmentally-Learned Encoded Sequences)
+DOODLES (Dynamical Operation Of Developmentally-Learned Encoded Sequences)
 ## Goal Statement
 Develop a neural model to spatially encode sequences of behaviors in the form 
 of drawing doodles.
