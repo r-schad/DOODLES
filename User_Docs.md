@@ -1,7 +1,7 @@
 # DOODLES User Docs
 ## Quick Start
 ### Pre-Requisites
-Python 3.9 installed on your machine.
+Python 3.10 installed on your machine.
 Code editor (such as VS Code, PyCharm, etc.) installed on your machine.
 ### Installation Steps
 Using the DOODLES project to generate a Self-Organizing Map (SOM) of doodles is simple. To use the code, follow these steps:
@@ -20,4 +20,19 @@ There are a variety of outputs generated from each run of Code_Ring_Network.py. 
 3. Scores Heatmap: the metric score with each map neuron generating the activity across each epoch is plotted. So, the rows of the heatmap are the neuron generating the activity, and the columns are each epoch over time. Note that the scores generated at the beginning of training are hardly due to the activity of the map layer; rather they are a result of the strong noise signal causing the exploration of the model during inital training stages.
 4. Scores Plot: the scores of each neuron are plotted over the epochs. The average epoch score throughout training is plotted in black.
 5. Parameters List: the list of all local variables are stored in the params_id.txt file, where id is the datetime string of the current run. These local variables include all model parameters necessary to replicate (with the exception of random effects) the current trial.
-   
+## FAQ
+1. The code is failing due to a missing package!
+
+Ensure that you have run `pip install -r requirements.txt` in your Python environment, as mentioned in point 2 of the Installation Steps section.
+
+2. How does the model work?
+
+Check the other documentation at [https://github.com/r-schad/DOODLES/edit/main/](https://github.com/r-schad/DOODLES)https://github.com/r-schad/DOODLES for in-depth description of how the model works.
+
+3. What do each of the parameters do?
+
+Check the comments within the code for descriptions of ecah parameter in the model.
+
+4. How can I ask further questions about the model, its implementation, or the code?
+
+Contact Robbie Schad (schadra@mail.uc.edu) with any questions.
